@@ -29,13 +29,6 @@ export const EXPERIENCES = [
         description: `Utilizing web development technologies, to develop a website, consisting of different webpages and landing pages`,
         technologies: ["Wix", "Google Console"],
     },
-    {
-        year: "June 2024 - July 2024",
-        role: "Web Development",
-        company: "Encryptix",
-        description: `Completing tasks and building websites using web development technologies like HTML, CSS, JS`,
-        technologies: ["HTML", "CSS", "JavaScript", "NodeJs", "ReactJS"],
-    },
 ];
 
 export const PROJECTS = [
